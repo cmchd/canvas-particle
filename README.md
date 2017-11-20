@@ -1,4 +1,4 @@
-# canvas-nest
+# canvas-particle
 仿知乎登录页面canvas-nest
 > 本文首发于我的个人博客：http://cherryblog.site/
 > github项目地址：https://github.com/sunshine940326/canvas-nest
